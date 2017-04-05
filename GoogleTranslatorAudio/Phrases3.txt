@@ -1,0 +1,67 @@
+﻿CEO - главный исполнительный 
+директор
+CFO - финансовый директор CIO - директор по информации CTO - главный технический директор
+analyst - аналитик
+architect  - архитектор build - построить cooperate - сотрудничать
+deal with - иметь дело department - отдел developer - разработчик get on - ладить
+join - присоединиться objective - задача owner - хозяин
+2. Vocabulary
+Study these words Изучите новые слова
+powerful - мощный produce - производить
+product - продуктовый product manager - менеджер по продукту programmer - программист project manager - менеджер проекта
+relationship - отношения restore - восстановить senior - старший strong - сильный
+support - поддерживать systems administrator - системный 
+администратор
+systems director - директор по управлению 
+системами
+trust - доверять webmaster
+
+
+Copmany types: service and product Service companies can be: outsource / offshore / consulting Service companies have: product owner outside the company and routine tasks Product companies have: product owner inside the company and interesting tasks Team types: project and matrix 
+Softline is a service company that provides IT-education, consulting, technical support services. - Softline - это сервисная компания, которая предоставляет  услуги Itобразования, консалтинга, технической поддержки.
+IBM provides consulting, customer services, IT-solutions for business, networking, bank payment systems. - IBM предоставляет услуги в сфере консалтинга, услуг по работе с клиентами, IT-решения для бизнеса, системы банковской оплаты.
+Facebook is a social network, a messanger, a number of mobile applications.  - Facebook - это социальная сеть, мессенджер и набор мобильных приложений.
+Mail.ru is not only a mail system, but also a  search engine and a number of mobile applications. - Mail.ru - это не только почтовая система, но также и  поисковик, и набор мобильных приложений
+
+Any company has: a product owner / a team / a team leader Team leader can be: a project manager / a scrum master Team can consist of: architects /developers / designers, etc. Product owner: adds new tasks / generates ideas / gives directions / makes decisions Team and a team leader: focus on work / complete tasks
+A product owner cooperates with a team and thier leader - Хозяин продукта сотрудничает с командой и их лидером.
+A project manager or a scrum master can be a team leader. - Менеджер проекта или скрам мастер может быть тим лидом.
+There can be different specialists in a team: architects, developers, designers, etc. - В команде могут быть разные специалисты: архитекторы, разработчики, дизайнеры и т.д.
+Product owner can add new tasks and the team complete them. - Хозяин продукта может добавить новые задачи, а команда их выполняет.
+
+
+Stages: forming / storming / norming / performing Basic principles: interaction / feedback / conflict resolution Communicate: let’s talk about / it would be better Support: that’s the way / sounds good / right you are Get involved: the thing is / take your time / let’s keep it up
+Let’s talk about the new security modules. - Давай поговорим о новых модулях безопасности.
+How about scanning user logs? - Right you are! - Как на счет проверки пользовательских логов? - Отлично!
+The thing is that we need to test everything again. - Дело в том, что нам нужно снова все протестировать.
+
+
+Talking about methods: we use Agile (Scrum, Kanban) Main processes are: work flow, sprint, retrospective Tasks are given and discussed at: daily meetings, meet ups Decomposing tasks: I will do / complete / I completed / did
+We use Agile in our company. -  Мы используем Agile в нашей компании.
+Work flow is some number of tasks and sprint is the time to complete them. - Work flow - это какой-то набор задач, а sprint - время на их выполнение.
+We analyse the results of our work at retrospectives. - Мы анализируем результаты нашей работы на ретроспективе. 
+At daily meetings you can say what you will do and what you completed. - На ежедневных встречах можно сказать, что будет сделано и уже сделано.
+
+
+Choose the correct option - выберите правильный вариант: 01. An analyst can really helps/ helping / help us with our datacenter base. 02. I do not / does not / do add new tasks to the Scrum board but the product owner can. 03. Our team cans not / can not / cans provide technical support. 04. Why do you / does you/ doing you to cooperate with them? 05. Does / do / is you work for an outsource company? - Yes, as a programmer.
+Write the correct form - напишите правильную форму: 06. How long (to do) he need to work to become a senior architect? 07. Can your team (to trust) the new CTO? 08. I (can) beleive that you are a CEO of this company - you are so young! 09. (to take) your time - it’s only 9 a.m. 10. The thing is that we (can) restore this data - somebody destroyed the hard drive.
+Correct the mistake - исправьте ошибку: 11. At daily meetings we discussing main objectives for the day. 12. Can we to find a new programmer by Monday? 13. Why does we do this work again? It would be better to complete other objectives. 14. The product manager can not improves the landing without a webmaster. 15. Users can register because the forum is offline.Let’s talk about it at the meeting.
+
+
+There can be two main types of companies - service and product ones. - Может быть два главных типа компаний - сервисные и продуктовые.
+Service companies cooperate with people outside the company to get orders. - Сервисные компании сотрудничают с людьми за пределами компаний, чтобы получать заказы.
+Product companies can develop their own projects and it is interesting for middle and senior IT-specialists. - Продуктовые компании могут разрабатывать собственные проекты и это интересно IT-специалистам среднего и высокого уровня.
+All of them use Agile to build a better working process. - Все они используют Agile, чтобы построить рабочий процесс получше.
+The thing is that we need more servers for our project. - Дело в том, что нам нужно больше серверов на проект.
+The team completed all the tasks. - That’s the way! - Команда закончила все задачи. - Молодцы!
+In our team of developers we can trust the team leader. - В нашей команде разработчиков мы можем доверять тим лиду.
+It would be better to find a CIO to get the data and give it to all of our employees. - Было бы хорошо найти главного директора по информации, чтобы получать данные и предоставлять их всем сотрудникам.
+A project manager provides comfortable conditions of work for the team. - Менеджер по проекту обеспечивает комфортные условия работы для команды.
+All CTOs usually cooperate with a team and can have a a great experiense as an architect or any other IT-specialist. - Все главные технические директора работают с командой и могут иметь огромный опыт в качестве архитектора или любой другой IT-специальности.
+A product ouwner updates the main tasks regularly. 
+
+
+What type of company do/did you work for? Can you say that it is a big company?
+I work for a service/product company called… I believe/guess/think that… Can you say that you would like to change the company? Why? Yes, I can/no, I can not because... What methods of work do you and your team normally use? Why? We use … because... Did you try to be a Scrum master? If not, would you like to? Yes, I did/no, I did not, but I would like to …as/because... Who is/was the leader in your team? Can/Could you trust him/her? It is/was… I can/could(not) trust him/her because...
+15
+What is the top position you would like to get at your company? I would like to become… 

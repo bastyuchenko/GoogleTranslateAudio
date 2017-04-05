@@ -1,0 +1,58 @@
+﻿due date - срок окончания 
+frantic pace - бешеный темп milestone - этап работы occasion - событие route map - дорожная карта
+stakeholders - заинтересованные 
+стороны
+timeframe - отрезок времени to-do list - список дел
+enthusiastic - полный энергии exhausted - изнуренный sufficient - достаточный trustworthy - надежный
+significantly - значительно timely - своевременно align - упорядочить
+2. Vocabulary
+Study these words Изучите новые слова
+allot - назначать
+broaden - расширить carry out - выполнить creep - подкрадываться delay - задерживать
+determine - определять ensure - обеспечить forecast - предугадывать keep within - придерживаться
+oversight - контролировать proceed - продолжить shift  - сдвигать streamline - упрощать
+veer off - отклониться waste
+
+
+Priorities: things we need to do / things  we can do / things we want to do Why: we are starting a new project to help businesses get rid of viruses What: we are working on a striking firewall program Who: our best developers will be involved in the project When: we are going to present a working beta-version this summer
+At first, we need to write a code for the browser. - Сначала нам нужно написать код для браузера.
+We are about to start a new project to streamline the database operations. - Мы вот-вот начнем новый проект, чтобы упростить операции с базами данных.
+The application we are working on is a new navigator for mobile devices.  - Приложение, над которым сейчас работаем, это новый навигатор для мобильных устройств.
+The team of designers is the first one to start their work. - Команда дизайнеров первой начнет работу.
+Our plan is to launch the project in March.
+
+Tasks: set a kick-off meeting / develop a working beta / initiate a testing process Responsibles: is / are responsible for a working beta Start / end dates: 4th of July to 7th of August Task status: complete / in progress / overdue / not started
+The first thing on our plan is to initiate a testing process of the cloud service.  - Первый пункт нашего плана - запустить тестирование облачного сервиса.
+QA department is responsible for the user logs. - Отдел качества ответственен за пользовательские логи.
+The task is to be complete on the 4th of July.
+
+
+Terms: strict / tight / agreed Setting terms: estimate project duration / model different scenarios / stick to realistic completion dates Worst case scenario: due to potential problems / possible difficulties / the timeframe is not sufficient
+We have a really tight deadline. - У нас действительно сжатые сроки.
+Don’t you think we need to stick to realistic completion dates? - А вы не считаете, что нужно придерживаться реалистичных дат выполнения?
+Due to the potential problems we can’t meet the deadline
+
+
+Forecasting: we are hoping to / we are planning / we would rather / we intend to Oversighting: identify pain points /  allot responsibles in cold blood / share all news  on the project Being late:  shift the terms a little / delay for a day / veer off a course
+We intend to get 5 000 users by winter. - Мы намерены получить 5000 пользователей к зиме.
+The main pain point is low traffic capacity. - Самым слабым звеном является низкая пропускная способность.
+Is it possible to delay for a day? The testing is not complete.
+
+Choose the correct option - выберите правильный вариант: 01. There are three things we need / needs / needing to do today. 02. We are work/ is working / are working on a new app for IOS. 03. Ours / our / yours best developers are involved in this project. 04.  We are going / are go / are goes to present the prototype next Monday. 05.  Unfortunately, the status of this task is not start / not starts / not started.
+Write the correct form - напишите правильную форму: 06. Newton is responsible for this task. He (to write) the code at the moment. 07. We (to set) a kick off meeting yesterday. 08. Can we (to initiate) the testing process tomorrow? 09. Our project manager (to estimate) the developing process duration in two days. 10. Before you start coding, don’t forget (to stick) to realistic completion dates!
+Correct the mistake - исправьте ошибку: 11. We are hopings to attract 1 million users by the next year. 12. Can we deley for a day? We have almost finished but there are small details left. 13. We will rather finish the project by Friday and relax at the weekend. 14. They has to veer off the course last week because of unexpected bugs. 15. We started working on the website later do to the potential problems with the connection.
+
+
+We are starting a new project to make the bank operations more secure and our to-do list is just huge. - Мы начинаем новый проект, чтобы сделать банковские операции еще безопаснее и наш список дел просто огромен.
+Don’t waste your time. The website must be on at 3 p.m. - Не трать время попусту. Сайт должен заработать в 3 часа дня.
+We will have to work overtime to ensure that the project is finished on time. - Нам придется работать сверхурочно, чтобы обеспечить окончание проекта вовремя.
+What is the due date of the developing process? - Когда должен быть закончен процесс разработки?
+The partners completed the route map of their future cooperation. - Партнеры составили дорожную карту своего будущего сотрудничества.
+It is difficult to work at this frantic pace. - Сложно работать в таком бешеном темпе.
+We have got sufficient data to initiate the testing process. - Мы получили достаточно данных, чтобы начать процесс тестирования.
+The manager set the kick off meeting for Thursday, so don’t be late! - Менеджер назначил стартовую встречу на четверг, поэтому не опаздывайте!
+What is the next thing on your plan?  - I am responsible for a working beta. - Что следующее в твоем плане? - Я ответственен за рабочую бета-версию.
+The terms for the project were agreed by the both sides.
+
+
+How fast do you usually complete the project? It usually takes… about... Do you often feel exhausted if you have to work at frantic pace? Yes, I do / No, I don’t, because... When was the last time you made it to a deadline? What was the project? It was in / on / at… How often do you veer off the agreed terms? Why? I often / never / rarely / always… because... Have you been punished for the delays? How? Yes, I have / No, I haven’t...

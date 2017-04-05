@@ -1,0 +1,98 @@
+﻿accept 
+agree 
+application
+attend 
+become
+boost 
+challenge
+check 
+code 
+condition
+co-worker 
+develop 
+expect 
+fail 
+goal
+growth
+hire 
+insurance
+interoperability
+issue 
+long-term
+match 
+on time
+overtime
+previous
+resolve
+salary 
+sick leave
+space
+weakness
+Talking about interests: I enjoy / like / I am good at
+Describing skills and experience: I worked for / my main skills are 
+Your negative sides: my weakness / disadvantage is 
+Useful phrases: actually / mostly / in fact
+I go for a run every morning because I have a goal - to win a marathon.
+I worked for IBM and resolved interoperability issues. 
+My weakness is time management but I attend a time management course.
+I am interested in a position where I can use my analytical skills. 
+Describing achievements: my achievement is / I completed 
+Talking about difficulties: my challenge was / it was difficult but 
+Accepting copromises: I agreed / disagreed but 
+Useful phrases: I think / beleive / guess
+My achievement is a new documentation system.
+My biggest challenge was a full landing change but I completed this task.
+Yesterday our project manager asked me to work overtime and I agreed. 
+I beleive that the old plugins worked very slow. 
+Describing goals: my long-term goals involve / are / I am going to / I would like to 
+Reasons for leaving: I thank the company for / but there is no opportunity to grow there 
+Explaining motivation: I am interested in / your position is / a new step in 
+Useful phrases: first of all / besides / however
+My long-term goal is a team leader positon in a year.
+I thank Cool.Inc for the experience but I would like to use my analytical skills.
+First of all, I’m interested in your product. 
+Asking about money: how much do you want to earn / what is your offer 
+Answering about money: I accept / don’t accept your offer 
+Your questions: what will my responsibilities be / what bonuses will I have 
+Useful phrases: perhaps / for sure / no doubts
+What is your offer? - A million dollars! Do you accept it?
+What bonuses will I have? - We will pay for your gym classes.
+Can I use the company servers to check the application? 
+I am not afraid of challeges and new tasks. 
+In 2012 I got an IELTS certificate and improved my English. 
+Are you going to work overtime today? 
+ Our team always completed the project on time. 
+ Did you test the new application yesterday?
+ I am going to boost my English skills next week. 
+ Can you (to check) the new code? 
+ I resolved security issues when I worked as a security technician. 
+ We don't fix the application bugs because it is not a part of our tasks. 
+ Your offer is adequate, I accept it.
+ We checked the logs yesterday and decided to add new features. 
+ My last job was a good start but I would like to have a higher position. 
+ Are you a long-term candidate or are you going to work only for a year? 
+ How did you develop your analytical skills? 
+ Did you agree with your CEO when he asked to work overtime?
+In my free time I create Android applications.
+My analytical skills help me to prioritize my tasks.
+I need to boost my engineering skills.
+Talking to our clients in English is a challenge for me.
+This position involves working in long-term projects. 
+I would like to code for different processor architectures.
+I resolved the interoperability issue of our application with Mac OS.
+We had a tight deadline and worked overtime. 
+I checked the application code one more time because I did not think it was ready.
+My goal is to be a team leader. 
+I am going to attend a Java course to improve my programming skills.
+I boosted my PHP knowledge at previous job but I would like to work for a product company.
+Unfortunately, there was no space for professional development and no new challenges.
+Did you send your resume to many companies? 
+Yes, I did/No, I did not. 
+I sent my resume to 3 companies... 
+How many interviews did you have? Were they successful? 
+I had 2 interviews at … 
+What position is interesting for you in 2 years? Why? 
+I am interested in a position of a … because it can help to develop my skills... 
+What skills do you have for it? I have strong testing/security skills... 
+Are you going to update your resume after this lesson? 
+Yes, I am/ No, I am not because...

@@ -16,38 +16,43 @@ namespace GoogleTranslatorAudio
 
         private static void Translate()
         {
-
-            System.IO.DirectoryInfo di = new DirectoryInfo("DownloadedFiles/1");
-
-            foreach (FileInfo file in di.GetFiles())
+            for (int numberOfUnit = 1; numberOfUnit <= 10; numberOfUnit++)
             {
-                file.Delete();
-            }
+                System.IO.DirectoryInfo di = new DirectoryInfo($"DownloadedFiles/{numberOfUnit}");
 
-            
-
-            string text = System.IO.File.ReadAllText(@"Phrases1.txt").Replace('\r', '.');
-            string[] phrasesCollection = text.Split('\n');
-
-            int counter = 0;
-            foreach (var item in phrasesCollection)
-            {
-                HttpClient client = new HttpClient();
-
-                var _address = new Uri($"https://translate.googleapis.com/translate_tts?ie=UTF-8&q={item}&tl=en&total=1&idx=0&textlen={item.Length}&client=gtx");
-
-                // Send asynchronous request
-                HttpResponseMessage response = client.GetAsync(_address).Result;
-
-                // Check that response was successful or throw exception
-                response.EnsureSuccessStatusCode();
-
-                // Read response asynchronously and save asynchronously to file
-                using (FileStream fileStream = new FileStream($"DownloadedFiles/1/{counter}{item.Replace(':', ' ').Replace("/", "or").Replace("?", " ")}.mp3", FileMode.Create, FileAccess.Write, FileShare.None))
+                foreach (FileInfo file in di.GetFiles())
                 {
-                    response.Content.CopyToAsync(fileStream).Wait();
+                    file.Delete();
                 }
-                counter++;
+
+
+
+                string text = System.IO.File.ReadAllText($"Phrases{numberOfUnit}.txt").Replace('\r', '.');
+                string[] phrasesCollection = text.Split('\n');
+
+                int counter = 0;
+                foreach (var item in phrasesCollection)
+                {
+                    HttpClient client = new HttpClient();
+
+                    var _address = new Uri($"https://translate.googleapis.com/translate_tts?ie=UTF-8&q={item}&tl=en&total=1&idx=0&textlen={item.Length}&client=gtx");
+
+                    // Send asynchronous request
+                    HttpResponseMessage response = client.GetAsync(_address).Result;
+
+                    // Check that response was successful or throw exception
+                    response.EnsureSuccessStatusCode();
+
+                    // Read response asynchronously and save asynchronously to file
+                    for (int i = 0; i < 2; i++)
+                    {
+                        using (FileStream fileStream = new FileStream($"DownloadedFiles/{numberOfUnit}/{counter}. {item.Replace(':', ' ').Replace("/", " or ").Replace("?", " ")}.mp3", FileMode.Create, FileAccess.Write, FileShare.None))
+                        {
+                            response.Content.CopyToAsync(fileStream).Wait();
+                        }
+                        counter++;
+                    }
+                }
             }
         }
 

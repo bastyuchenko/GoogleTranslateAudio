@@ -1,0 +1,98 @@
+﻿update
+upper-intermediate
+able
+achievement
+apply for
+associate
+bachelor
+change
+create
+degree
+elementary
+experience
+familiar
+fluent
+full-time
+great
+highly
+implement
+improve
+intermediate
+layout
+operate
+opportunity
+part-time
+prioritize
+range
+reduce
+relevant
+reverse
+skills
+Resume is: a short document with comfortable layout and relevant information
+Resume sections: contacts, professional profile, skills, experience, education
+Experience and education: must be in reverse order
+You can add: other skills section, cover letter
+Full-time test automation engineer, 2013 – 2014. Part-time waiter, June, 2012 – July, 2012.
+Zend Framework Certificate, October 2010, Bachelor degree in Information Technology, June 2008.
+Strong management skills and good knowledge of Information Security.
+Professional profile is: short information about relevant experience and skills
+4+ years of professional experience in information security.
+Expert and highly familiar with a broad variety of security, engineering, networking and operating system software. 
+Reverse engineering: Ollydbg, WinDbg, GDB, IDA Pro, PEiD, malware sandbox. 
+Experience consists of: company name / website, work period, achievements / duties
+Education part includes: school name, specialization, graduation date, certificates
+Other skills section includes: English level, hobbies, other skills
+English levels are: elementary, intermediate, upper-intermediate, fluent
+Network Technician: January 2012 – December 2014.
+Created a bug-free plugin that made team work faster.
+Information Technology College, Associate’s Degree in Information Security, May 2011. 
+Great experience in Adobe Creative Suite (InDesign, Illustrator, Photoshop), intermediate level of English. 
+Cover letter is: a business letter to an HR manager to get a plus in your karma
+Start with: Dear Mr. or Ms. and the name of the HR manager
+Explain: how you found and why you want this job
+Describe: your main achievements
+At the end: thanks for the attention and regards
+Dear Mr. Eddisson, I am highly interested in your position at findajob.com.
+In 2014 I wrote a script that reduced the number of bugs. 
+Thank you for your time. Please, contact me for any relevant information.
+Regards, Andrew Wilson.
+I have improved the security system recently. 
+Studied reverse engineering at college in 2014. 
+03. I have used a great number of programming instruments for 2 years. 
+04. My achievement is the new design of our website. 
+05. Expert in engineering with good PHP skills.
+06. I have changed my job lately. 
+07. Implement a bug-free documentation system two years ago. 
+08. Reduced a range of bugs last week. 
+09. I have worked with highly professional developers since 2013. 
+10. Operated in Windows and Linux platforms from 2010 to 2012.
+11. I would like to show my interest in this position. 
+12. I am familiar with a range of testing instruments. 
+13. Regards, John Gates. 
+14. Operated in Ubuntu, Windows Server and Mac OS in 2007. 
+15. Intermediate English level.
+What was your last job? Give details. 
+My last job was... 
+I worked for... 
+What were the main tasks? 
+Try to list all of them. 
+My main tasks were… 
+What areas do you have experience in? 
+I have experience in... 
+Do you often check job advertisements on the internet? 
+What resources do you use? I never/often/rarely check... 
+What is your main achievement in work? My main achievement is…
+Professional profile: Professional with a great experience in Java and PHP. 
+Highly familiar with a big number of programming tools. 
+Bachelor of Information Technology 
+Associate Degree in Web Design 
+Professional experience: Worked with email spam filters, firewalls, anti-virus systems and vulnerability scanners.
+Implemented a bug-free mail system. 
+Operated in a datacenter environment. 
+Cover letter: In my last job I had a big number of tasks in software engineering. 
+I am highly interested in your position at job.com. 
+I would like to apply for a position of a PHP-programmer. 
+Please, call me for any relevant to my resume information. 
+Additional information: Highly familiar with PHP 5 
+Expert in software engineering 
+Fluent English and French

@@ -1,60 +1,100 @@
-﻿agenda - повестка дня
-appointment - встреча arrange - организовать call back - перезвонить catch - расслышать
-conclusion - вывод congratulations - поздравления consider - рассмотреть contact - связываться
-dial - набрать enclosed - прикрепленный engaged - занятой enquire - узнать
-exchange - обменяться extension - добавочный номер
-ind out - узнать
-hold on - ожидать inform - сообщить introduce - представить leave - оставить
-mail shots - почтовая рассылка order - заказать put through - соединить read back - повторить записанное
-reply - отвечать respect - уважать ring up - позвонить spell  - произнести по буквам
-target - цель voicemail - голосовая почта
-
-
-
-Communication styles: formal / informal Being polite: hi, how are you / thank you / pleasen / sorry / excuse me / congratulations Asking for help: could you help me - formal / can you help me - informal Asking for permission: do you mind if I… - formal and informal
-Excuse me, but the line is engaged. Would you like to leave a message? - Простите, но линия занята. Вы хотели бы оставить сообщение?
-Could you, please, give me the backup of the application? - Не могли бы вы мне дать резервную копию приложения?
-Do you mind if I use your computer? - Вы не возражаете, если я воспользуюсь вашим компьютером?
-
-
-Asking: can I speak to / is this / am I talking to / I would like to speak to Answering: yes, it is / you are / who is asking / I am afraid / sorry, but / hold on Leaving a message: I would like to / would you like to leave a message Giving reasons: the reason I am calling is .../ I can not get through to Asking for details: can you tell me / spell the name / give me the contacts / I did not catch that
-Am I talking to Mr. Andrew Smith? - Я говорю с мистером Эднрю Смитом?
-I am sorry, but Mr. Smith is not at the office now. - Извините, но мистера Смита нет сейчас в офисе.
-Would you like to leave a message or to call back? - Хотите оставить сообщение или перезвонить?
-Can you tell me when he is coming back? - Можете подсказать, когда он вернется?
-Can you spell his last name? - Можешь продиктовать его фамилию? 
-
-
-Arranging a meeting: let’s meet / Is it okay /Is it better to meet at Setting a time:  It is a bit early / late Agreeing: deal / definitely / certainly Showing interest: I see / I understand / makes sense / well / you see
-Let’s meet on Monday at 3 p.m. - Давайте встретимся в понедельник в 3 часа дня.
-It is a bit early. How abour 4 p.m.? - Это немного рановато. Как на счет в 4?
-No problem, I will see you then. - Без проблем, увидимся тогда.
-Makes sense. Then I will wait for your call. - Понимаю. Тогда буду ждать звонка.
-Well, I need to think. - Ну, мне нужно подумать.
-
-
-Introducing: This is / Have you met / Nice to meet you Having drinks: Can I get you a drink? / It all looks nice, what do you recommend? Chosing food and drinks: I will have / Help yourself Leaving: It is very kind of you, but I need to go. Would you like to have dinner? Saying goodbye:  See you! Have a nice evening.
-Have you met Ted? - Hi, nice to meet you. I am Tom. - Вы знакомы с Тедом? Привет, приятно познакомиться. Я Том.
-It all looks nice, what do you recommend? - Red wine is really good here. - Все выглядит неплохо, что посоветуете? - Сдесь очень хорошее красное вино.
-I will have some beer. - Я буду пиво.
-It is very kind of you, but I need to go. - Очень мило с вашей стороны, но мне пора идти, такси ждет снаружи.
-Bye-bye! Have a nice weekend! - Пока-пока! Хороших выходных!
-
-
-Choose the correct option - выберите правильный вариант: 01. Excuse me, I have / has / had an appointment at 5 p.m. Can I go now? 02. How is the project? - Fine, thank / thanking / thanks you. We arranged a meeting with a sponsor! 03. Holding / holds / hold the door please! My appointment starts in 2 minutes! 04. Don’t is / be / are too friendly and don’t be too formal! 05. Can you provides / can you provided / can you provide  more details on the appointment, please?
-Write the correct form - напишите правильную форму: 06. I would like to (to discuss) some project details with you. 07. (to talk(I)) to Mr. Smith? - Yes, you are. 08. On behalf of our CEO let me (to arrange) a meeting with your manager. 09. I am sorry, but you (can) ring him up now, because he is at the meeting now. 10. Unfortunately, the line is engaged. Would you like (to leave) a message?
-Correct the mistake - исправьте ошибку: 11. We have a new  targets - to sell 2 million copies of our program. 12. Dial my extension if you want to getting more information. 13. Do you mind if we considers this topic at the next meeting? 14. Hello, can you puted me through to your project manager, please? 15. The reason I am caller is your database problem.
-
-
-Hello, this is Bob. I am calling to discuss the agenda from out meeting yesterday. - Здравствуйте, это Боб. Я звоню обсудить повестку дня с нашей вчерашней встречи.
-Do you mind if I use your mobile? - Вы не против, если я воспользуюсь вашим телефоном?
-The reason why I am calling is to get extra information about your application. - Я звоню, чтобы получить дополнительную информацию о вашем приложении.
-Am I talking to Ms. Fox? - No, you dialed a wrong number. - Я говорю с мис Фокс? - Нет, вы набрали неверный номер.
-I can’t get through to the headoffice. Can I leave a message? - Не могу дозвониться в главный офис. Можно оставить сообщение?
-Could you tell me if you received my offer on the mail shots? - Не могли бы вы сказать, получили ли вы мое предложение по поводу рассылки?
-Let’s arrange a meeting for tomorrow at 1 p.m. - Давайте организуем встречу на завтра, в час дня.
-Can you read back the phone number I dictated you, please? - Можете, пожалуйста, повторить записанный номер телефона, который я диктовал?
-Deal. I will introduce you to our new partner tomorrow then. - Договорились. Тогда я завтра представлю вас нашему новому партнеру.
-It is very kind of you to invite me for a dinner. I will call you back tomorrow. - 
-
-How often do you need to call somebody on business? I often / never / rarely all… Why do you usualy call someone at work? I usually call someone because… The reason I call someone is ... Do you arrange meetings on the phone? Yes, I do. / No, I do not. Who did you last call? Why? I called because… When you don’t get a reply do you usually leave a message or not? I usually / never / often leave a message if I do not get a reply...
+﻿agenda
+appointment 
+arrange 
+call back
+catch 
+conclusion 
+congratulations 
+consider 
+contact
+dial
+enclosed 
+engaged 
+enquire 
+exchange
+extension
+find out
+hold on 
+inform
+introduce
+leave
+mail shots
+order
+put through
+read back
+reply
+respect
+ring up
+spell
+target
+voicemail
+Communication styles: formal / informal 
+Being polite: hi, how are you / thank you / pleasen / sorry / excuse me / congratulations 
+Asking for help: could you help me - formal / can you help me - informal 
+Asking for permission: do you mind if I… - formal and informal
+Excuse me, but the line is engaged. Would you like to leave a message?
+Could you, please, give me the backup of the application? 
+Do you mind if I use your computer? 
+Asking: can I speak to / is this / am I talking to / I would like to speak to 
+Answering: yes, it is / you are / who is asking / I am afraid / sorry, but / hold on 
+Leaving a message: I would like to / would you like to leave a message 
+Giving reasons: the reason I am calling is .../ I can not get through to 
+Asking for details: can you tell me / spell the name / give me the contacts / I did not catch that
+Am I talking to Mr. Andrew Smith?
+I am sorry, but Mr. Smith is not at the office now.
+Would you like to leave a message or to call back? 
+Can you tell me when he is coming back? 
+Can you spell his last name? 
+Arranging a meeting: let’s meet / Is it okay /Is it better to meet at 
+Setting a time:  It is a bit early / late 
+Agreeing: deal / definitely / certainly 
+Showing interest: I see / I understand / makes sense / well / you see
+Let’s meet on Monday at 3 p.m. 
+It is a bit early. How abour 4 p.m.?
+No problem, I will see you then. 
+Makes sense. Then I will wait for your call.
+Well, I need to think. 
+Introducing: This is / Have you met / Nice to meet you 
+Having drinks: Can I get you a drink? / It all looks nice, what do you recommend? 
+Chosing food and drinks: I will have / Help yourself 
+Leaving: It is very kind of you, but I need to go. Would you like to have dinner? 
+Saying goodbye:  See you! Have a nice evening.
+Have you met Ted? - Hi, nice to meet you. I am Tom.
+It all looks nice, what do you recommend? - Red wine is really good here.
+I will have some beer. 
+It is very kind of you, but I need to go.
+Bye-bye! Have a nice weekend! 
+01. Excuse me, I have an appointment at 5 p.m. Can I go now? 
+02. How is the project? - Fine, thank you. We arranged a meeting with a sponsor! 
+03. Hold the door please! My appointment starts in 2 minutes! 
+04. Don’t be too friendly and don’t be too formal! 
+05. Can you provide  more details on the appointment, please?
+06. I would like to discuss some project details with you. 
+07. Am I talking to Mr. Smith? - Yes, you are. 
+08. On behalf of our CEO let me arrange a meeting with your manager. 
+09. I am sorry, but you can ring him up now, because he is at the meeting now. 
+10. Unfortunately, the line is engaged. Would you like to leave a message?
+11. We have a new target - to sell 2 million copies of our program. 
+12. Dial my extension if you want to get more information. 
+13. Do you mind if we consider this topic at the next meeting? 
+14. Hello, can you put me through to your project manager, please? 
+15. The reason I am calling is your database problem.
+Hello, this is Bob. I am calling to discuss the agenda from out meeting yesterday.
+Do you mind if I use your mobile?
+The reason why I am calling is to get extra information about your application.
+Am I talking to Ms. Fox? - No, you dialed a wrong number. 
+I can’t get through to the headoffice. Can I leave a message?
+Could you tell me if you received my offer on the mail shots?
+Let’s arrange a meeting for tomorrow at 1 p.m. 
+Can you read back the phone number I dictated you, please?
+Deal. I will introduce you to our new partner tomorrow then.
+It is very kind of you to invite me for a dinner. I will call you back tomorrow.
+How often do you need to call somebody on business? 
+I often / never / rarely all… 
+Why do you usualy call someone at work? 
+I usually call someone because… The reason I call someone is ... 
+Do you arrange meetings on the phone? 
+Yes, I do. / No, I do not. Who did you last call? Why? 
+I called because… 
+When you don’t get a reply do you usually leave a message or not? 
+I usually / never / often leave a message if I do not get a reply...

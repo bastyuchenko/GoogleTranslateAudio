@@ -1,52 +1,95 @@
-﻿adjusted - настроенный
-brief - краткий displayed - отображаемый functional - функциональный possible - возможный
-reliable - надежный carefully - тщательно backup - резервная копия beta test - опытная эксплуатация
-content - наполнение database - база данных discretion - усмотрение disk quota - дисковая квота
-domain - домен fixing - исправление
-2. Vocabulary
-Study these words Изучите новые слова
-compatibility - совместимость  
-form - форма maintenance - техобслуживание purpose - назначение requirements - требования
-responsibilities - обязанности specification - особенность term - условие cover - описывать
-edit - редактировать establish - устанавливать indicate - указать itemize - составить перечень
-launch - запускать remove - убрать
-
-SRS is: a plan for development and operation SRS synonyms are: customer requirements / statement of work / terms of reference SRS purpose is to: establish the basis / provide info about costs and schedules / refine baseline Useful phrases: it is agreed / established that as appropriate / as a minimum
-It is agreed that the Contractor will provide maintenance services on regular basis. - Стороны договорились, что исполнитель будет предоставлять услуги техобслуживания на регулярной основе.
-We are meeting to refine the baseline and to complete the final version of the customer requirements. - Мы встречаемся, чтобы улучшить основные параметры и составить финальную версию техзадания.
+﻿adjusted
+brief 
+displayed 
+functional 
+possible
+reliable
+carefully
+backup
+beta test
+content
+database
+discretion
+disk quota
+domain
+fixing
+compatibility
+form 
+maintenance
+purpose
+requirements
+responsibilities
+specification
+term
+cover
+edit 
+establish
+indicate
+itemize
+launch
+remove
+SRS is: a plan for development and operation 
+SRS synonyms are: customer requirements / statement of work / terms of reference 
+SRS purpose is to: establish the basis / provide info about costs and schedules / refine baseline 
+Useful phrases: it is agreed / established that as appropriate / as a minimum
+It is agreed that the Contractor will provide maintenance services on regular basis.
+We are meeting to refine the baseline and to complete the final version of the customer requirements.
 320 mb of free space for the website must be provided as a minimum
-
-Structure: introduction / overall description  / specific requirements / appendices Introduction: purpose / scope / definitions Overall description: product perspective / functions  / constraints / use cases  Specific requirements: all the possible requirements = body of the document Useful phrases: identify / limit options, content, structure, product, external interfaces
-Overview is a section that identifies the product and describes the content and the structure. - Общее представление - это раздел, который определяет проект и описывает наполнение и структуру.
-Anything that limits our options is described in the constraints. - Все, что каклибо лимитирует наши варианты действий, указано в разделе “ограничения”.
+Structure: introduction / overall description  / specific requirements / appendices 
+Introduction: purpose / scope / definitions 
+Overall description: product perspective / functions  / constraints / use cases  
+Specific requirements: all the possible requirements = body of the document 
+Useful phrases: identify / limit options, content, structure, product, external interfaces
+Overview is a section that identifies the product and describes the content and the structure.
+Anything that limits our options is described in the constraints.
 All the possible requirements usually identify the body of the document. 
-
-Correct: up to the required standards for the quality / database integrity Unambiguous and complete: describe what is the future project created for Consistent and detailed: how it interacts with people, hardware and other external interfaces Modifiable and traceable: the one you can edit and control Useful phrases: imposed on an implementation / main considerations / operation environment 
-Please, make sure that your SRS is up to all the standards imposed on an implementation. - Пожалуйста, убедитесь в том, что ваше ТЗ соответствует всем стандартам, обязательных к внедрению.
-Don’t forget to describe the operation environment of the future project. - Не забудьте описать рабочую среду будущего проекта.
+Correct: up to the required standards for the quality / database integrity 
+Unambiguous and complete: describe what is the future project created for 
+Consistent and detailed: how it interacts with people, hardware and other external interfaces 
+Modifiable and traceable: the one you can edit and control 
+Useful phrases: imposed on an implementation / main considerations / operation environment 
+Please, make sure that your SRS is up to all the standards imposed on an implementation.
+Don’t forget to describe the operation environment of the future project. 
 The main consideration why people will use our program is for navigation. 
-
-Ambiguity: don’t give too much or too little information that may not be verified Requirements on users: you can only assume what user will do Unnecessary or invented terms: avoid any extra terms if you can say it simple Useless phrases: never mention forward reference / contradiction / noise / silence
-You can’t make a user do something, so try to assume what he or she will do with the application. - Невозможно заставить пользователя, так что пробуйте предположить, что он или она будет делать с помощью приложения
-There can’t be noise or silence in your SRS - give enough information on each of the points. - Не должно быть слишком много или мало информации в вашем ТЗ - давайте достаточно данных по каждому пункту.
+Ambiguity: don’t give too much or too little information that may not be verified 
+Requirements on users: you can only assume what user will do 
+Unnecessary or invented terms: avoid any extra terms if you can say it simple 
+Useless phrases: never mention forward reference / contradiction / noise / silence
+You can’t make a user do something, so try to assume what he or she will do with the application.
+There can’t be noise or silence in your SRS - give enough information on each of the points.
 Say it simple if you can and don’t invent new terms! 
-
-Choose the correct option - выберите правильный вариант: 01. It is agreed / agrees / agreeing that the developers must provide the website backup. 02.  Could / Cans / Coulds you provide the info on costs and schedules? 03. Unfortunately, we can’t establishes / establish / establishing the basis without the info. 04. We would be / be would / am happy to refine baseline of your program and do the beta test. 05.  3 servers musting / musted / must be provided as minimum.
-Write the correct form - напишите правильную форму: 06. The body of the document (to give) information about the requirements. 07. Please (to identify) the structure of your website before we itemize the content sections. 08. Your SRS (to contain) too much noise. Try to give brief information. 09. We (to cover) all responsibilities as appropriate at the meeting yesterday. 10. The main consideration why people regularly (to use) our program is for reading online.
-Correct the mistake - исправьте ошибку: 11. Does you check the program compatibility with Windows every month? 12. Try to avoids any unnecessary details when describing the possible issues. 13. Ever mention forward references in your SRS. 14. You can only assume what our a user will do with the product. 15. It is agrees that we can edit the content.
-
-
-All the requirements must be carefully stated in the body of the document. - Все требования должны быть тщательно изложены в теле документа.
-Study the functional of the future product to refine baseline. - Изучите функционал будущего продукта, чтобы улучшить основные параметры.
-The introduction will provide you with the details on the purpose of the website. - Вступительная часть предоставит детали по цели сайта.
-The operation environment of the program is going to be the database. - Операционной средой программы будет база данных.
-The following features are imposed on an implementation. - Следующие характерные особенности обязательны к внедрению.
-One of the specification is 500 mb of disk quota as minimum. - Одна из спецификаций - это 500 мб дисковой квоты, как минимум.
-Every part of the SRS should be up to the required standards for the quality. - Каждая часть ТЗ должна соответствовать стандартам качества.
-Your SRS contains too many unnecessary terms. - Ваше ТЗ содержит слишком много ненужных терминов.
-We would like a base for an online forum that we can edit and modify. - Мы бы хотели основу для онлайн-форума, которую можно редактировать и модифицировать.
+01. It is agreed that the developers must provide the website backup. 
+02.  Could you provide the info on costs and schedules? 
+03. Unfortunately, we can’t establish the basis without the info. 
+04. We would be happy to refine baseline of your program and do the beta test. 
+05.  3 servers must be provided as minimum.
+06. The body of the document gives information about the requirements. 
+07. Please identify the structure of your website before we itemize the content sections. 
+08. Your SRS contains too much noise. Try to give brief information. 
+09. We cover all responsibilities as appropriate at the meeting yesterday. 
+10. The main consideration why people regularly use our program is for reading online.
+11. Do you check the program compatibility with Windows every month? 
+12. Try to avoid any unnecessary details when describing the possible issues. 
+13. Never mention forward references in your SRS. 
+14. You can only assume what our user will do with the product. 
+15. It is agreed that we can edit the content.
+All the requirements must be carefully stated in the body of the document.
+Study the functional of the future product to refine baseline. 
+The introduction will provide you with the details on the purpose of the website.
+The operation environment of the program is going to be the database. 
+The following features are imposed on an implementation. 
+One of the specification is 500 mb of disk quota as minimum.
+Every part of the SRS should be up to the required standards for the quality.
+Your SRS contains too many unnecessary terms.
+We would like a base for an online forum that we can edit and modify. 
 The instruction on how the application will interact with hardware and other external interfaces is not given correctly. 
-
-Have you ever had to write an SRS? Yes, I have / No, I haven't. I often / never / rarely / always   write If yes, what was the SRS for? Give details. It was an SRS for… (app / website, etc.) Is it possible to complete the project without an SRS? Yes, it is / No, it is not because... Have you ever had any problems because of the bad SRS? What was it? I often / never / rarely / always use it… when... Have you had to write an SRS in English before? Yes, I have / No, I haven't, it was
-
-
+Have you ever had to write an SRS? 
+Yes, I have / No, I haven't. I often / never / rarely / always   write 
+If yes, what was the SRS for? Give details. 
+It was an SRS for… (app / website, etc.) 
+Is it possible to complete the project without an SRS? 
+Yes, it is / No, it is not because... 
+Have you ever had any problems because of the bad SRS? What was it?
+ I often / never / rarely / always use it… when... 
+ Have you had to write an SRS in English before? 
+ Yes, I have / No, I haven't, it was

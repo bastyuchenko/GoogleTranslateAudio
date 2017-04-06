@@ -1,52 +1,85 @@
-﻿clarify - прояснить clear - ясный comlpain - жаловаться confirm - подтвердить
-emphasise - подчеркнуть ending - окончание highlight - выделять ignore - пропускать
-inbox - входящие let - позволять
-2. Vocabulary
-Study these words Изучите новые слова
-look forward - ждать с нетерпением
-main point - главная часть message - сообщение on behalf - от имени receive - получать
-regarding - по теме regret - сожалеть report - отчет request - попросить
-send back - отправить обратно sign - подписать template - шаблон title - заголовок
-trash - корзина volume - объем
-
-
-E-mail structure: beginning / main point / ending Greeting: Dear Mr., Ms., Mrs. / Dear Sir or Madam Before ending: Please, let me know if … / I look forward to hearing from you Ending: Yours sincerely / Yours faithfully / Best regards / wishes 
-Dear Sir or Madam, I would like to apply for your position of a webmaster. - Уважаемые господин или госпожа, я бы хотел подать заявку на вашу вакансию вебмастера.
-Dear Mrs. Mosby, I would like to confirm our meeting tomorrow. Yours sincerely, John Smith. - Дорогая миссис Мозби, я хотел бы подтвердить нашу встречу завтра. С уважением, Джон Смит.
-Please, let me know if you need more details. - Пожалуйста, сообщите, если понадобится больше деталей.
-Best regards, Larry Page. - С наилучшими пожеланиями, Ларри Пейдж.
-
-Starting main point: I would like to thank / confirm /enquire about Asking for help: I would appreciate if / would be grateful if Offering help: I would be happy / pleased to Saying sorry: I regret that / Unfortunately / I am afraid
-We would like to enquire about the new project. - Мы бы хотели уточнить информацию о новом проекте.
-We would appreciate if you send us more details on the new application. - Мы были бы очень благодарны, если вы пришлете нам больше деталей о новом приложении.
-I would be happy to do the testing for you. - Буду рад провести тестирование для вас.
-
-
-First: short words / short sentences / short paragraphs Second: short but clear Third: one letter - one topic
-It is a great pleasure to let you know that we have already completed the project. - Какое огромное удовольствие дать вам знать , что мы уже закончили проект.
-Congrats! We have already completed the project. - Ура! Проект закончен!
+﻿clarify
+clear
+comlpain
+confirm
+emphasise
+ending
+highlight
+ignore
+inbox
+let
+look forward
+main point
+message
+behalf
+receive
+regarding
+regret
+report
+request
+send back
+sign
+template
+title
+trash
+volume
+E-mail structure: beginning / main point / ending 
+Greeting: Dear Mr., Ms., Mrs. / Dear Sir or Madam 
+Before ending: Please, let me know if … / I look forward to hearing from you 
+Ending: Yours sincerely / Yours faithfully / Best regards / wishes 
+Dear Sir or Madam, I would like to apply for your position of a webmaster.
+Dear Mrs. Mosby, I would like to confirm our meeting tomorrow. Yours sincerely, John Smith.
+Please, let me know if you need more details.
+Best regards, Larry Page.
+Starting main point: I would like to thank / confirm /enquire about 
+Asking for help: I would appreciate if / would be grateful if 
+Offering help: I would be happy / pleased to 
+Saying sorry: I regret that / Unfortunately / I am afraid
+We would like to enquire about the new project.
+We would appreciate if you send us more details on the new application.
+I would be happy to do the testing for you.
+First: short words / short sentences / short paragraphs 
+Second: short but clear Third: one letter - one topic
+It is a great pleasure to let you know that we have already completed the project.
+Congrats! We have already completed the project.
 We would like to complain about the technical support. 
-
-Informal words: hi, hello, hey, bye, what’s up, see you later Short forms: CU - see you / RUOK - are you okay /  thx - thanks / cuz - because Other short forms: LOL - laughing out loud / LMAO - laughing my ass off / XXX - kisses
-Hi, Fred! I am home now! - Привет, Фред! Я дома сейчас.
-I had a great wknd cuz I went to Vegas, baby! - Я отлично провел выходные, потому что был в Вегасе, детка!
-And the film I saw LMAO! - И фильм, который я смотрел - я просто пацталом!
-
-
-Choose the correct option - выберите правильный вариант: 01. Dear Mrs. Jonston, I would liking / likes / like to thank you for the assistance. 02. Could / Cans / Coulds you send the contract back when you sign it? 03. Unfortunately, we can not finishs / finishing / finish the project in two days. 04. We would be / be would / am happy to develop a range of plugins for your website. 05. Good day / Good afternoon / Hi, bro! The new film is just LOL!!!
-Write the correct form - напишите правильную форму: 06. I would like (to complain) about the mobile version of your application. 07. Please let us know if you (to need) any information regarding the new scripts. 08. I look forward to (to hear) from you. 09. We (to be) pleased to inform you that you can start using the new program. 10. The wknd was cool cuz all my friends (to come) to my party!
-Correct the mistake - исправьте ошибку: 11. Faithfully your, Antonio Banderas. 12. We would appreciating if you tell us more about your new operating system. 13. We regret than you can not come and visit our project presentation. 14. Please, let’s us know if you can meet us next week. 15. Dear Sir or Madam, I would like know if you still have a position of a PHP-programmer.
-
-
-Dear Mrs. Tainton, I would like to enquire about your position of  an architect. - Уважаемая миссис Теинтон, я хотел бы узнать о вашей вакансии архитектора.
-We would appreciate if you send us the copy of the agreement. - Мы были бы очень благодарны, если вы пришлете нам копию соглашения.
-We are happy to do the beta test. - Мы с удовольствием проведем бета-тестирование для вас.
-I would like to complain about the anti-virus you installed for us. - Я хотел бы пожаловаться на антивирус, который вы для нас установили.
-We are pleased to inform you that the new application is bug-free. - Мы рады сообщить вам, что новое приложение не имеет багов.
-Please, let me know if you would like to receive a beta version of the new software. - Пожалуйста, сообщите, если вы бы хотели получить бета-версию нового ПО.
-We regret that the servers were attacked by a group of hackers. - Мы сожалеем, что на серверы была совершена атака группой хакеров.
-I am afraid we can not find the backup of your website. - Боюсь, мы не сможем найти резервную компию вашего сайта.
-We look forward to starting a new project with your company. - Мы с нетерпением ждем начала нового проекта с вашей компанией.
+Informal words: hi, hello, hey, bye, what’s up, see you later 
+Short forms: CU - see you / RUOK - are you okay /  thx - thanks / cuz - because 
+Other short forms: LOL - laughing out loud / LMAO - laughing my ass off / XXX - kisses
+Hi, Fred! I am home now!
+I had a great wknd cuz I went to Vegas, baby!
+And the film I saw LMAO! 
+01. Dear Mrs. Jonston, I would like to thank you for the assistance. 
+02. Could you send the contract back when you sign it? 
+03. Unfortunately, we can not finish the project in two days. 
+04. We would be happy to develop a range of plugins for your website. 
+05. Hi, bro! The new film is just LOL!!!
+06. I would like to complain about the mobile version of your application. 
+07. Please let us know if you need any information regarding the new scripts. 
+08. I look forward to hearing from you. 
+09. We are pleased to inform you that you can start using the new program. 
+11. Faithfully your, Antonio Banderas. 
+12. We would appreciate if you tell us more about your new operating system. 
+13. We regret than you can not come and visit our project presentation. 
+14. Please, let’s know if you can meet us next week. 
+15. Dear Sir or Madam, I would like to know if you still have a position of a PHP-programmer.
+Dear Mrs. Tainton, I would like to enquire about your position of  an architect.
+We would appreciate if you send us the copy of the agreement.
+We are happy to do the beta test. 
+I would like to complain about the anti-virus you installed for us.
+We are pleased to inform you that the new application is bug-free. 
+Please, let me know if you would like to receive a beta version of the new software.
+We regret that the servers were attacked by a group of hackers.
+I am afraid we can not find the backup of your website.
+We look forward to starting a new project with your company.
 CU later, Johnny! - Yeah, bye! 
-
-Do you write informal messages to your collegues? Yes, I do / No, I do not. I often / never / rarely / always… What do you use to write informal messages to collegues or friends? I use…(skype / facebook, etc.) Do you have a special intronet in your company? How do you call it? Yes, I do / No, I do not. It is called... Do you often use emojis(smiles)? I often / never / rarely / always use it… when... What is your favourite emoji? It is...
+Do you write informal messages to your collegues? Yes, I do / No, I do not. 
+I often / never / rarely / always… 
+What do you use to write informal messages to collegues or friends? 
+I use…(skype / facebook, etc.) 
+Do you have a special intronet in your company? How do you call it? 
+Yes, I do / No, I do not. It is called... 
+Do you often use emojis(smiles)? 
+I often / never / rarely / always use it… when... 
+What is your favourite emoji? 
+It is...

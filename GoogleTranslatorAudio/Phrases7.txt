@@ -1,53 +1,93 @@
-﻿beg pardon - просить прощения
-conclude - сделать вывод estimate - оценивать mean - иметь в виду mention - упоминать
-move on - двигаться дальше outline - очертить recap - резюмировать refer - ссылаться
-share - поделиться sum up - подбить итоги acceptable - приемлемый instead - вместо
-notes - записи visual aids - наглядные пособия
-2. Vocabulary
-Study these words Изучите новые слова
-briefly - кратко
-completely - полностью currently - на данный момент deeply - детально directly - напрямую
-especially - особенно extremely - очень likely - похоже mainly - в основном
-obviously - очевидно properly - непосредственно quite - довольно really - действительно
-slightly - слегка totally 
-
-Discussing: what I accomplished / what I plan to do next / what obstacles I met Starting:  let’s begin / the purpose of the meeting is / the way I see it Useful phrases: to start with / next / finally / in other words
-The way I see it, we should start with the plugin. - Как я считаю, начать нужно с плагина. 
-The purpose of our meeting is to describe the beta-version of our new product. - Цель нашего собрания - это описать бета версию нашего нового продукта.
+﻿beg pardon
+conclude
+estimate
+mean
+mention
+move on
+outline
+recap
+refer
+share
+sum up
+acceptable
+instead
+notes
+visual aids
+briefly
+completely
+currently
+deeply
+directly
+especially
+extremely
+likely
+mainly
+obviously
+properly
+quite
+really
+slightly
+Discussing: what I accomplished / what I plan to do next / what obstacles I met 
+Starting:  let’s begin / the purpose of the meeting is / the way I see it 
+Useful phrases: to start with / next / finally / in other words
+The way I see it, we should start with the plugin.
+The purpose of our meeting is to describe the beta-version of our new product.
 Let’s begin. I will talk about the last sprint and its results.
-
-Opinions:  what do you think / how do you feel about it /  I am in favour of Agreeing: I think you are right / I totally agree / absolutely Disagreeing: I don’t think you are right /don’t know about that / I totally disagree Useful phrases:  therefore / thus / anyway / however
-I am in favour of changing our security system. - Я склонен считать, что нужно менять нашу систему безопасности.
-That is a good idea. I totally agree! - Отличная идея. Я полностью согласен.
-I don’t know about that as our servers do not have enough free space. - Я не уверен насчет этого, так как на наших серверах не достаточно места.
+Opinions:  what do you think / how do you feel about it /  I am in favour of 
+Agreeing: I think you are right / I totally agree / absolutely 
+Disagreeing: I don’t think you are right /don’t know about that / I totally disagree 
+Useful phrases:  therefore / thus / anyway / however
+I am in favour of changing our security system.
+That is a good idea. I totally agree!
+I don’t know about that as our servers do not have enough free space.
 Perhaps we should test the application one more time and check the user logs.
-
-Changing topics: let us move on / go to / the next item is / okay, we can move on Interrupting: I beg your pardon / excuse me / hold on / wait a second please Clarifying: what do you mean by / do you really think that / I hardly understand Useful phrases: overall / surely / as a rule / even though
-I beg your pardon. I hardly understand why we can not use Ubuntu for this project. - Прошу прощения. Я не совсем понимаю, почему мы не можем использовать Ubuntu для этого проекта.
-Hold on, please! Do you really think that the browser is bug-free? - Подождите, пожалуйста! Вы действительно считаете, что браузер работает без багов?
+Changing topics: let us move on / go to / the next item is / okay, we can move on 
+Interrupting: I beg your pardon / excuse me / hold on / wait a second please 
+Clarifying: what do you mean by / do you really think that / I hardly understand 
+Useful phrases: overall / surely / as a rule / even though
+I beg your pardon. I hardly understand why we can not use Ubuntu for this project.
+Hold on, please! Do you really think that the browser is bug-free?
 Even though we completed it on time we still need to spend two weeks testing the project.
 
-Resulting: get up to date / coordinate efforts / identified as a team / shared problems Closing the meeting: let’s summarize / sum up / recap Concluding: as a result / in conclusion / the main points are / briefly Useful phrases:  I’d say that / what I mean is / that’s true / likewise
-Okay, I hope everyone got up to date now. - Хорошо, надеюсь, все уже в курсе событий.
-Let’s sum up the results  of the meeting. - Давайте подведем итоги по результатам встречи.
+Resulting: get up to date / coordinate efforts / identified as a team / shared problems 
+Closing the meeting: let’s summarize / sum up / recap 
+Concluding: as a result / in conclusion / the main points are / briefly 
+Useful phrases:  I’d say that / what I mean is / that’s true / likewise
+Okay, I hope everyone got up to date now.
+Let’s sum up the results  of the meeting.
 I’d say that we need to update the video player to get more fps
-
-Choose the correct option - выберите правильный вариант: 01. Our next step is … I begs/ beg / begging your pardon, but I didn’t catch your last phrase. 02. What are you / do you / is you currently busy with? - The security code. 03. How will you feels / do you feel / did you felt about our cloud service? 04.  Please, let / lets / leted me summarize what we discussed today. 05.  On /in/ as a result, the antivirus is blocking our plugins every time you try to add it to the browser.
-Write the correct form - напишите правильную форму: 06. I’d (to say) that we can organize a stand up next week to share our ideas with others. 07. The purpose of our meeting is (to give) details on our progress and briefly discuss next steps. 08. What I (to accomplish) yesterday is quite an interesting offer from our partners.   09. We completely (to change) our interface last week for more performance. 10. Did you (to write) the report properly yesterday?
-Correct the mistake - исправьте ошибку: 11. In others words, we need to estimate costs for the new research. 12. In start with, I would like to outline the main issues with the code. 13. Therefour, we will communicate directly with our outsource department. 14. I don’t think that’s a good idea. We should studied the error reports deeply. 15. What do you mean buy the old version? We are still using it and there were no new updates!
-
-
-The purpose of our meeting is to estimate the issues with the platform. - Цель нашей встречи - оценить проблемы с платформой.
-I don’t think you are right. We need to totally change our methods of work. - Я считаю, что вы не правы. Нам нужно полностью менять методы работы.
-He is likely to finish the stand-up meeting and recap what was said. - Похоже, что он заканчивает встречу и подведет итоги сказанного.
-Excuse me, what do you mean by the acceptable number of users? - Прошу прощения, что вы имеете в виду под приемлемым количеством пользователей?
-I’d say that the program is not completely tested on the mobile operating systems. - Я бы сказал, что программа не полностью протестирована на мобильных операционных системах.
-People were not able to log in to their accounts, especially with the help of Facebook. - Люди не могли зайти в свои аккаунты, особенно с помощью фейсбука.
-We are currently working on the shared problems that are remaining from the last sprint. - Мы сейчас работаем над общими проблемами с прошлого спринта.
-You need to get everyone up to date on this quite a big traffic issue. - Вам нужно всем сообщить информацию об этой довольно серьезной проблеме с трафиком.
-Anyway, we have already completed most of the tasks and mainly thanks to our great team work. - Как бы там ни было, мы уже закрыли большую часть задач, в основном, благодаря нашей отличной командной работе.
+01. Our next step is … I beg your pardon, but I didn’t catch your last phrase. 
+02. What are you currently busy with? - The security code. 
+03. How do you feel about our cloud service? 
+04.  Please, let me summarize what we discussed today. 
+05.  As a result, the antivirus is blocking our plugins every time you try to add it to the browser.
+06. I’d say that we can organize a stand up next week to share our ideas with others. 
+07. The purpose of our meeting is to give details on our progress and briefly discuss next steps. 
+08. What I accomplished yesterday is quite an interesting offer from our partners.   
+09. We completely changed our interface last week for more performance. 
+10. Did you write the report properly yesterday?
+11. In other words, we need to estimate costs for the new research. 
+12. In start with, I would like to outline the main issues with the code. 
+13. Therefour, we will communicate directly with our outsource department. 
+14. I don’t think that’s a good idea. We should study the error reports deeply. 
+15. What do you mean by the old version? We are still using it and there were no new updates!
+The purpose of our meeting is to estimate the issues with the platform. 
+I don’t think you are right. We need to totally change our methods of work.
+He is likely to finish the stand-up meeting and recap what was said. 
+Excuse me, what do you mean by the acceptable number of users? 
+I’d say that the program is not completely tested on the mobile operating systems.
+People were not able to log in to their accounts, especially with the help of Facebook.
+We are currently working on the shared problems that are remaining from the last sprint.
+You need to get everyone up to date on this quite a big traffic issue. 
+Anyway, we have already completed most of the tasks and mainly thanks to our great team work.
 Do you really think that we can move on if we still have the compatibility problems?
-
-What was your last meeting? Give details. It was… about... Have you been a speaker at the meeting? Was it difficult? Yes, I have / No, I haven’t. It was easy / difficult because Did somebody interrupt you at that meeting? Why? Yes, they did / No, they didn’t because... Do you often disagree with a speaker at the meeting? I often / never / rarely / always use it… when... Is it polite to interrupt a speaker at an official presentation? I believe / think / guess it is /it isn’t because...
-
-
+What was your last meeting? Give details. 
+It was… about... 
+Have you been a speaker at the meeting? Was it difficult? 
+Yes, I have / No, I haven’t. It was easy / difficult because 
+Did somebody interrupt you at that meeting? Why? 
+Yes, they did / No, they didn’t because... 
+Do you often disagree with a speaker at the meeting? 
+I often / never / rarely / always use it… when... 
+Is it polite to interrupt a speaker at an official presentation? 
+I believe / think / guess it is /it isn’t because...
